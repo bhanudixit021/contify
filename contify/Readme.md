@@ -13,8 +13,8 @@ A simple search engine API built with FastAPI that supports indexing and searchi
 ## 📌 Setup
 ### **1. Clone the Repository**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone git@github.com:bhanudixit021/contify.git
+cd contify
 ```
 
 ### **2. Create a Virtual Environment**
@@ -32,6 +32,8 @@ pip install -r requirements.txt
 ### **4. Run the FastAPI Application**
 ```bash
 uvicorn main:app --reload
+---OR---
+make up
 ```
 By default, the API will be available at: **http://127.0.0.1:8000**
 

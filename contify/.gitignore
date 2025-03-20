@@ -58,7 +58,7 @@ db/
 
 #Test Files
 test_*.txt
-*.txt
+
 
 
 # static output directory
